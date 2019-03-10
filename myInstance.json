@@ -1,0 +1,10 @@
+{
+  "tenancyName": "tenancy_name",
+  "region": "eu-frankfurt-1",
+  "tenancyId": "ocid1.tenancy.oc1.....",
+  "authUserId": "ocid1.user.oc1.......",
+  "compartmentId": "ocid1.compartment.oc1.......",
+  "keyFingerprint": "69:.....:02",
+  "privateKeyPath": "/Users/username/privatekey.pem",
+  "servicesDomain": "eu-frankfurt-1.oraclecloud.com"
+}
